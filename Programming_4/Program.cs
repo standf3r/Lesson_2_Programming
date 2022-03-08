@@ -15,3 +15,16 @@ else
 {
     Console.WriteLine("Третьего числа не существует");
 }
+
+
+// Console.WriteLine("Введите число: ");
+// string a = Console.ReadLine();
+// a = a.Remove(a.IndexOf("-"),1);
+// if (a.Length>2)
+// {
+//     a=a.Substring(2,1);
+// }
+// else 
+// {
+//     Console.Write("Третьего числа не существует");
+// }
