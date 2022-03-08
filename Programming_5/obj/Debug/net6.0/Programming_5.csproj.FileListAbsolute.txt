@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.AssemblyInfo.cs
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminar 2\Programming_5\bin\Debug\net6.0\Programming_5.exe
+D:\GeekBrains\Seminar 2\Programming_5\bin\Debug\net6.0\Programming_5.deps.json
+D:\GeekBrains\Seminar 2\Programming_5\bin\Debug\net6.0\Programming_5.runtimeconfig.json
+D:\GeekBrains\Seminar 2\Programming_5\bin\Debug\net6.0\Programming_5.dll
+D:\GeekBrains\Seminar 2\Programming_5\bin\Debug\net6.0\Programming_5.pdb
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.dll
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\refint\Programming_5.dll
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.pdb
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\Programming_5.genruntimeconfig.cache
+D:\GeekBrains\Seminar 2\Programming_5\obj\Debug\net6.0\ref\Programming_5.dll
