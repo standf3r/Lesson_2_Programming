@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.AssemblyInfo.cs
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminar 2\Programming_3\bin\Debug\net6.0\Programming_3.exe
+D:\GeekBrains\Seminar 2\Programming_3\bin\Debug\net6.0\Programming_3.deps.json
+D:\GeekBrains\Seminar 2\Programming_3\bin\Debug\net6.0\Programming_3.runtimeconfig.json
+D:\GeekBrains\Seminar 2\Programming_3\bin\Debug\net6.0\Programming_3.dll
+D:\GeekBrains\Seminar 2\Programming_3\bin\Debug\net6.0\Programming_3.pdb
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.dll
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\refint\Programming_3.dll
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.pdb
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\Programming_3.genruntimeconfig.cache
+D:\GeekBrains\Seminar 2\Programming_3\obj\Debug\net6.0\ref\Programming_3.dll
