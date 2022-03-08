@@ -10,3 +10,11 @@ if(fnumber >= 100 & fnumber <= 999) {
   int a = fnumber % 10;
   Console.WriteLine($"Последняя цифра числа {fnumber} равна {a}");
 }
+
+
+// Решение с помощью строки. В задаче число представляем как текст и показываем с помощью команды Substring только последний символ трехзначного числа.
+
+// using System;
+// string numer = Convert.ToString(new Random().Next(100,1000));
+// Console.WriteLine(numer);
+// Console.WriteLine(numer.Substring(2));
