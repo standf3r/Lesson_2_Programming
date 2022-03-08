@@ -2,7 +2,7 @@
 
 // Аналогично первой задачи, только вместо введеного значения вставляем случайное
 
-string a = Convert.ToString(new Random().Next(10,1000));
+string a = Convert.ToString(new Random().Next(100,1000));
 Console.WriteLine(a);
 int b = a.Length - 1;
 a = a.Remove(b); 
